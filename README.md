@@ -24,7 +24,7 @@ ___
 ___
 #### Tools
 The following tools were used for this project:
-Pycharm
+- Pycharm
 - Git
 - GitHub
 - Slack
