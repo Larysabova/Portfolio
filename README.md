@@ -4,7 +4,7 @@ This repository is a portfolio of Larysa Bova's work for the 6-week QA Automated
 
 #### Links to Repositories
 
-- https://github.com/Larysabova/challenge_portfolio_Bova.git
+- https://github.com/Larysabova/challenge_portfolio_Bova
 - https://github.com/Larysabova/test_robotframework_bova
 ___
 
